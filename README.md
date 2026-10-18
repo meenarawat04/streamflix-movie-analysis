@@ -74,7 +74,7 @@ Raw files are kept in `data/raw/` and cleaned versions in `data/cleaned/`, so th
 
 | Visual | Question answered |
 |---|---|
-| Top 10 Watched Movies | Which movies attract the most views? |
+| [`Top 10 Watched Movies`](images/top10watchedmovies.png) | Which movies attract the most views? |
 | Top 10 Genres by Weighted Views | Which genres are most popular? |
 | User Distribution by Country | Where are users located? |
 | User Distribution by Subscription | What is the free vs. subscriber split? |
