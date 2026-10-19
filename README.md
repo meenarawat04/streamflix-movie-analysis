@@ -86,7 +86,6 @@ The report includes slicers for Country, Genre and Device so viewers can explore
 ## ⚠️ Limitations
 
 - **Genre views are weighted.** Films with several genres have their views split equally between those genres, so genre totals add up to total views. A different weighting method, such as counting a film's full views in every genre, could change the ranking slightly.
-- **Country differences are small and the map has no labels.** The top three countries lead Italy by only a handful of users, and adding data labels or a bar chart would make the ranking clearer.
 - **The data is synthetic.** Patterns such as even device usage may not reflect real user behaviour. Any real business decision would need validated data and further evidence about customer preferences and willingness to pay.
 
 ## 🛠️ Tools and Skills
