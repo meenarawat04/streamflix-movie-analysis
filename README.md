@@ -75,11 +75,11 @@ Raw files are kept in `data/raw/` and cleaned versions in `data/cleaned/`, so th
 | Visual | Question answered |
 |---|---|
 | [`Top 10 Watched Movies`](images/top10watchedmovies.png) | Which movies attract the most views? |
-| Top 10 Genres by Weighted Views | Which genres are most popular? |
-| User Distribution by Country | Where are users located? |
-| User Distribution by Subscription | What is the free vs. subscriber split? |
-| User Distribution by Age Range | How do users and total watch time vary by age and gender? |
-| User Distribution by Device | Which devices are used to access the platform? |
+| [`Top 10 Genres by Weighted Views`](images/top10genresbyweightedviews.png) | Which genres are most popular? |
+| [`User Distribution by Country`](images/userDistributionByCountries.png) | Where are users located? |
+| [`User Distribution by Subscription`](images/userDistributionBySubscription.png) | What is the free vs. subscriber split? |
+| [`User Distribution by Age Range`](images/userDistributionByAgeRange.png) | How do users and total watch time vary by age and gender? |
+| [`User Distribution by Device`](images/userDistributionByDevices.png) | Which devices are used to access the platform? |
 
 The report includes slicers for Country, Genre and Device so viewers can explore the data interactively.
 
