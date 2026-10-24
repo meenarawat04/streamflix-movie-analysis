@@ -126,6 +126,5 @@ StreamFlix is a fictional company created for educational and portfolio purposes
 This portfolio version shows my individual work. It is based on the same business scenario and core questions as a mock team project completed during the Generation UK&I Data Analytics programme.
 
 ---
-
 **Created by:** *[Meena Rawat]*
-**Contact:** [LinkedIn](www.linkedin.com/in/meenarawat04) | [Email](mailto:meenarawat04@gmail.com)
+**Contact:** [`LinkedIn`](https://www.linkedin.com/in/meenarawat04) | [Email](mailto:meenarawat04@gmail.com)
